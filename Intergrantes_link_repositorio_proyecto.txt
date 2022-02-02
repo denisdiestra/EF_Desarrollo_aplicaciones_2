@@ -1,0 +1,12 @@
+Integrantes
+===========
+
+1.Denis Alejandro Diestra Castillo
+2.Laura del Pilar Baca Flores
+3.Manuel Enrique Inga Mamani
+4.Kevin Alexander Vilchez Sernaque
+
+Link del proyecto repositorio GitHub
+====================================
+
+https://github.com/denisdiestra/EF_Desarrollo_aplicaciones_2.git
